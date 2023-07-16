@@ -13,6 +13,10 @@
   <body>
 
   <div style="margin: 0 auto;width: 1000px;height: 800px">
+
+    <h3>
+      test
+    </h3>
     <h3>
       欢迎 <a>${sessionScope.user.liuzhaoUserName}</a> 登录
     </h3>
